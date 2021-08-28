@@ -11,7 +11,3 @@ This is a text under the subheader
 !.open index.html in your browser
 
 This is the official
-
-this is different
-and this
-and this
