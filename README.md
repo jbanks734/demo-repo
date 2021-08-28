@@ -9,5 +9,3 @@ This is a text under the subheader
 ## Local Devlopment
 
 !.open index.html in your browser
-
-This is the official
